@@ -11,7 +11,7 @@ const LandscapeDesign = () => {
                 <div class="lg:w-1/2 lg:flex flex-col justify-center">
                     <h2 class="text-title-24-bold lg:text-title-60-bold text-primary">Landscape Design</h2>
                     <p class="mt-8 lg:mt-6 lg:text-header-18-medium text-neutral-2">Eleifend eget pellentesque a amet scelerisque. Nec viverra molestie et cursus morbi eget. Amet bibendum suspendisse vestibulum amet dignissim in elementum. Vitae, ultrices enim commodo ut pretium feugiat tortor faucibus. Vel, nisl, quis nibh eget pretium libero, tortor eleifend sit. Porttitor nunc, suspendisse non pharetra venenatis eu. Vulputate blandit morbi non mollis. Id pulvinar non facilisis in at faucibus donec est. Eleifend eget pellentesque a amet scelerisque. Nec viverra molestie et cursus morbi eget. Amet bibendum suspendisse vestibulum amet dignissim in elementum. Vitae, ultrices enim commodo ut pretium feugiat tortor faucibus. </p>
-                    <div class="flex mt-4 lg:mt-14"><a href="#" class="text-header-18-medium text-neutral-2">Show more</a><img src="img/Arrow - Right.svg" alt="" class="ml-1"/></div>
+                    <div className="flex mt-4 lg:mt-14"><a href="#" class="text-header-18-medium text-neutral-2">Show more</a><img src="img/Arrow - Right.svg" alt="" class="ml-1"/></div>
                 </div>
             </div>
             <div class="container mt-8 lg:mt-14">
