@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  .text-title-36-bold{
+      @apply font-1 text-36 font-bold;
+  }
+  .text-title-40-bold{
+      @apply font-1 text-40 font-bold;
+  }
+  .text-title-24-bold{
+      @apply font-1 text-24 font-bold;
+  }
+  .text-title-24-medium{
+      @apply font-1 text-24 font-medium;
+  }
+  .text-title-60-medium{
+      @apply font-1 text-60 font-medium;
+  }
+  .text-title-60-bold{
+      @apply font-1 text-60 font-bold;
+  }
+  .text-title-80-bold{
+      @apply font-1 text-80 font-bold;
+  }
+  .text-title-18-bold{
+      @apply font-1 text-18 font-bold;
+  }
+  .text-title-16-medium{
+      @apply font-1 text-16 font-medium;
+  }
+  .text-title-16-bold{
+      @apply font-1 text-16 font-bold;
+  }
+  .text-body-14-medium{
+      @apply font-2 text-14 font-medium;
+  }
+  .text-body-14-bold{
+      @apply font-2 text-14 font-bold;
+  }
+  .text-header-16-medium{
+      @apply font-2 text-16.2 font-medium;
+  }
+  .text-header-16-bold{
+      @apply font-2 text-16.2 font-bold;
+  }
+  .text-header-18-medium{
+      @apply font-2 text-18 font-medium;
+  }
+  .text-header-bold{
+      @apply font-2 text-18 font-bold;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+      display: none;
+  }
+}
